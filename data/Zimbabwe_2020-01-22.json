@@ -1,0 +1,4742 @@
+{
+  "created_at": "Wed Jan 22 07:22:09 +0000 2020",
+  "id": 1219882928244756481,
+  "id_str": "1219882928244756481",
+  "text": "RT @thesafarisource: Keep in mind - close to the Zambezi River in #Zimbabwe's Mana Pools, @MachabaCamp opens their latest addition - INGWE\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Zimbabwe",
+        "indices": [
+          66,
+          75
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "thesafarisource",
+        "name": "The Safari Source",
+        "id": 611855948,
+        "id_str": "611855948",
+        "indices": [
+          3,
+          19
+        ]
+      },
+      {
+        "screen_name": "MachabaCamp",
+        "name": "Machaba Camp",
+        "id": 2709604062,
+        "id_str": "2709604062",
+        "indices": [
+          90,
+          102
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"http://www.wildlingtravels.in/\" rel=\"nofollow\">WIldling Travels</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 909880686072303616,
+    "id_str": "909880686072303616",
+    "name": "Wildling",
+    "screen_name": "WildlingTravels",
+    "location": "New Delhi, India",
+    "description": "Travel the World along with us!\nShare Pictures, Videos, Write Blogs on our website\nHelp People to know more about the world\ud83c\udf0e\ud83d\uddfa\ufe0f",
+    "url": "https://t.co/LVnTcrJdCH",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/LVnTcrJdCH",
+            "expanded_url": "http://wildlingtravels.in",
+            "display_url": "wildlingtravels.in",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1912,
+    "friends_count": 113,
+    "listed_count": 116,
+    "created_at": "Mon Sep 18 20:43:55 +0000 2017",
+    "favourites_count": 1,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 68175,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/984134720458915840/CEEpDv_o_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/984134720458915840/CEEpDv_o_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/909880686072303616/1505917824",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Jan 22 07:18:36 +0000 2020",
+    "id": 1219882036703481856,
+    "id_str": "1219882036703481856",
+    "text": "Keep in mind - close to the Zambezi River in #Zimbabwe's Mana Pools, @MachabaCamp opens their latest addition - ING\u2026 https://t.co/bFQ98guRuY",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Zimbabwe",
+          "indices": [
+            45,
+            54
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "MachabaCamp",
+          "name": "Machaba Camp",
+          "id": 2709604062,
+          "id_str": "2709604062",
+          "indices": [
+            69,
+            81
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/bFQ98guRuY",
+          "expanded_url": "https://twitter.com/i/web/status/1219882036703481856",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 611855948,
+      "id_str": "611855948",
+      "name": "The Safari Source",
+      "screen_name": "thesafarisource",
+      "location": "Bulawayo, Zimbabwe",
+      "description": "Follow us for unique Bush Experiences | Tailor-Made Safaris | Insider Tips & News | Incredible Deals & Off-the-Beaten-Track #Safaris \n#Africa #VisitZimabwe",
+      "url": "http://t.co/YsZnhOe3dR",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/YsZnhOe3dR",
+              "expanded_url": "http://www.thesafarisource.com",
+              "display_url": "thesafarisource.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1156,
+      "friends_count": 723,
+      "listed_count": 42,
+      "created_at": "Mon Jun 18 17:43:05 +0000 2012",
+      "favourites_count": 700,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1418,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "DE760D",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/506804711840706560/XG2KM1VI_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/506804711840706560/XG2KM1VI_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/611855948/1539161659",
+      "profile_link_color": "FA743E",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 1,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}
+{
+  "created_at": "Wed Jan 22 07:18:36 +0000 2020",
+  "id": 1219882036703481856,
+  "id_str": "1219882036703481856",
+  "text": "Keep in mind - close to the Zambezi River in #Zimbabwe's Mana Pools, @MachabaCamp opens their latest addition - ING\u2026 https://t.co/bFQ98guRuY",
+  "truncated": true,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Zimbabwe",
+        "indices": [
+          45,
+          54
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "MachabaCamp",
+        "name": "Machaba Camp",
+        "id": 2709604062,
+        "id_str": "2709604062",
+        "indices": [
+          69,
+          81
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/bFQ98guRuY",
+        "expanded_url": "https://twitter.com/i/web/status/1219882036703481856",
+        "display_url": "twitter.com/i/web/status/1\u2026",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 611855948,
+    "id_str": "611855948",
+    "name": "The Safari Source",
+    "screen_name": "thesafarisource",
+    "location": "Bulawayo, Zimbabwe",
+    "description": "Follow us for unique Bush Experiences | Tailor-Made Safaris | Insider Tips & News | Incredible Deals & Off-the-Beaten-Track #Safaris \n#Africa #VisitZimabwe",
+    "url": "http://t.co/YsZnhOe3dR",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/YsZnhOe3dR",
+            "expanded_url": "http://www.thesafarisource.com",
+            "display_url": "thesafarisource.com",
+            "indices": [
+              0,
+              22
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1156,
+    "friends_count": 723,
+    "listed_count": 42,
+    "created_at": "Mon Jun 18 17:43:05 +0000 2012",
+    "favourites_count": 700,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1418,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "DE760D",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/506804711840706560/XG2KM1VI_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/506804711840706560/XG2KM1VI_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/611855948/1539161659",
+    "profile_link_color": "FA743E",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 1,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}
+{
+  "created_at": "Wed Jan 22 07:13:24 +0000 2020",
+  "id": 1219880728114143232,
+  "id_str": "1219880728114143232",
+  "text": "RT @Zoe_Flood: Nice to see both #Ethiopia and #Zimbabwe on this list of best travel destinations for 2020.\n\nZimbabwe is filled with amazing\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Ethiopia",
+        "indices": [
+          32,
+          41
+        ]
+      },
+      {
+        "text": "Zimbabwe",
+        "indices": [
+          46,
+          55
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Zoe_Flood",
+        "name": "Zo\u00eb Flood",
+        "id": 221278192,
+        "id_str": "221278192",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 474582668,
+    "id_str": "474582668",
+    "name": "luckmoremusoni",
+    "screen_name": "luckmoremusoni",
+    "location": "Harare Zimbabwe ",
+    "description": "He who is in me is greater than he who is in the world!",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 307,
+    "friends_count": 355,
+    "listed_count": 0,
+    "created_at": "Thu Jan 26 04:14:46 +0000 2012",
+    "favourites_count": 21763,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4869,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/833293466222342145/STPZZ1ne_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/833293466222342145/STPZZ1ne_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/474582668/1487507744",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Jan 22 01:45:58 +0000 2020",
+    "id": 1219798327903961089,
+    "id_str": "1219798327903961089",
+    "text": "Nice to see both #Ethiopia and #Zimbabwe on this list of best travel destinations for 2020.\n\nZimbabwe is filled wit\u2026 https://t.co/pLlHTJm1L7",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Ethiopia",
+          "indices": [
+            17,
+            26
+          ]
+        },
+        {
+          "text": "Zimbabwe",
+          "indices": [
+            31,
+            40
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/pLlHTJm1L7",
+          "expanded_url": "https://twitter.com/i/web/status/1219798327903961089",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 221278192,
+      "id_str": "221278192",
+      "name": "Zo\u00eb Flood",
+      "screen_name": "Zoe_Flood",
+      "location": "East Africa | London",
+      "description": "Journalist and filmmaker. Most recently directed \u2018Gamblers Like Me\u2019 for #BBCAfricaEye: https://t.co/bvwBqFGUBq.",
+      "url": "https://t.co/3bTW2I0cs8",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/3bTW2I0cs8",
+              "expanded_url": "http://www.zoeflood.com",
+              "display_url": "zoeflood.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/bvwBqFGUBq",
+              "expanded_url": "http://youtu.be/JXgLwphEDM0",
+              "display_url": "youtu.be/JXgLwphEDM0",
+              "indices": [
+                87,
+                110
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 8045,
+      "friends_count": 4956,
+      "listed_count": 305,
+      "created_at": "Tue Nov 30 06:30:39 +0000 2010",
+      "favourites_count": 14065,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 12558,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/988915926421602304/xaEO8nH7_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/988915926421602304/xaEO8nH7_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/221278192/1576431842",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 29,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 14,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}
+{
+  "created_at": "Wed Jan 22 07:05:11 +0000 2020",
+  "id": 1219878658917138434,
+  "id_str": "1219878658917138434",
+  "text": "RT @Zoe_Flood: Nice to see both #Ethiopia and #Zimbabwe on this list of best travel destinations for 2020.\n\nZimbabwe is filled with amazing\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Ethiopia",
+        "indices": [
+          32,
+          41
+        ]
+      },
+      {
+        "text": "Zimbabwe",
+        "indices": [
+          46,
+          55
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Zoe_Flood",
+        "name": "Zo\u00eb Flood",
+        "id": 221278192,
+        "id_str": "221278192",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1550294510,
+    "id_str": "1550294510",
+    "name": "Edward",
+    "screen_name": "Chiefgarwi",
+    "location": "Chipinge,Zimbabwe!",
+    "description": "'Keep moving forward,step by step,u will reach ur destination',each day is a step forward,'never look back!'",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 33,
+    "friends_count": 177,
+    "listed_count": 0,
+    "created_at": "Thu Jun 27 10:21:28 +0000 2013",
+    "favourites_count": 11,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 83,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/378800000305465303/47bda3d2a3cbd8f4ae69bf4d854abead_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000305465303/47bda3d2a3cbd8f4ae69bf4d854abead_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1550294510/1376620857",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Jan 22 01:45:58 +0000 2020",
+    "id": 1219798327903961089,
+    "id_str": "1219798327903961089",
+    "text": "Nice to see both #Ethiopia and #Zimbabwe on this list of best travel destinations for 2020.\n\nZimbabwe is filled wit\u2026 https://t.co/pLlHTJm1L7",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Ethiopia",
+          "indices": [
+            17,
+            26
+          ]
+        },
+        {
+          "text": "Zimbabwe",
+          "indices": [
+            31,
+            40
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/pLlHTJm1L7",
+          "expanded_url": "https://twitter.com/i/web/status/1219798327903961089",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 221278192,
+      "id_str": "221278192",
+      "name": "Zo\u00eb Flood",
+      "screen_name": "Zoe_Flood",
+      "location": "East Africa | London",
+      "description": "Journalist and filmmaker. Most recently directed \u2018Gamblers Like Me\u2019 for #BBCAfricaEye: https://t.co/bvwBqFGUBq.",
+      "url": "https://t.co/3bTW2I0cs8",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/3bTW2I0cs8",
+              "expanded_url": "http://www.zoeflood.com",
+              "display_url": "zoeflood.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/bvwBqFGUBq",
+              "expanded_url": "http://youtu.be/JXgLwphEDM0",
+              "display_url": "youtu.be/JXgLwphEDM0",
+              "indices": [
+                87,
+                110
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 8045,
+      "friends_count": 4956,
+      "listed_count": 305,
+      "created_at": "Tue Nov 30 06:30:39 +0000 2010",
+      "favourites_count": 14065,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 12558,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/988915926421602304/xaEO8nH7_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/988915926421602304/xaEO8nH7_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/221278192/1576431842",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 29,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 14,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}
+{
+  "created_at": "Wed Jan 22 06:59:22 +0000 2020",
+  "id": 1219877194606043136,
+  "id_str": "1219877194606043136",
+  "text": "RT @Zoe_Flood: Nice to see both #Ethiopia and #Zimbabwe on this list of best travel destinations for 2020.\n\nZimbabwe is filled with amazing\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Ethiopia",
+        "indices": [
+          32,
+          41
+        ]
+      },
+      {
+        "text": "Zimbabwe",
+        "indices": [
+          46,
+          55
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Zoe_Flood",
+        "name": "Zo\u00eb Flood",
+        "id": 221278192,
+        "id_str": "221278192",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1023911988,
+    "id_str": "1023911988",
+    "name": "nyasha \ud83c\uddff\ud83c\uddfc\ud83c\uddff\ud83c\udde6",
+    "screen_name": "NyashaChipoka",
+    "location": "ZW, ZA, AU, UK, Mars",
+    "description": "contrarian...",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 277,
+    "friends_count": 197,
+    "listed_count": 10,
+    "created_at": "Thu Dec 20 09:47:33 +0000 2012",
+    "favourites_count": 9017,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 8654,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1151924117270085639/VEnMQ-c8_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151924117270085639/VEnMQ-c8_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1023911988/1575181765",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Jan 22 01:45:58 +0000 2020",
+    "id": 1219798327903961089,
+    "id_str": "1219798327903961089",
+    "text": "Nice to see both #Ethiopia and #Zimbabwe on this list of best travel destinations for 2020.\n\nZimbabwe is filled wit\u2026 https://t.co/pLlHTJm1L7",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Ethiopia",
+          "indices": [
+            17,
+            26
+          ]
+        },
+        {
+          "text": "Zimbabwe",
+          "indices": [
+            31,
+            40
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/pLlHTJm1L7",
+          "expanded_url": "https://twitter.com/i/web/status/1219798327903961089",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 221278192,
+      "id_str": "221278192",
+      "name": "Zo\u00eb Flood",
+      "screen_name": "Zoe_Flood",
+      "location": "East Africa | London",
+      "description": "Journalist and filmmaker. Most recently directed \u2018Gamblers Like Me\u2019 for #BBCAfricaEye: https://t.co/bvwBqFGUBq.",
+      "url": "https://t.co/3bTW2I0cs8",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/3bTW2I0cs8",
+              "expanded_url": "http://www.zoeflood.com",
+              "display_url": "zoeflood.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/bvwBqFGUBq",
+              "expanded_url": "http://youtu.be/JXgLwphEDM0",
+              "display_url": "youtu.be/JXgLwphEDM0",
+              "indices": [
+                87,
+                110
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 8045,
+      "friends_count": 4956,
+      "listed_count": 305,
+      "created_at": "Tue Nov 30 06:30:39 +0000 2010",
+      "favourites_count": 14065,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 12558,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/988915926421602304/xaEO8nH7_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/988915926421602304/xaEO8nH7_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/221278192/1576431842",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 29,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 14,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}
+{
+  "created_at": "Wed Jan 22 06:57:03 +0000 2020",
+  "id": 1219876612218458114,
+  "id_str": "1219876612218458114",
+  "text": "RT @Zoe_Flood: Nice to see both #Ethiopia and #Zimbabwe on this list of best travel destinations for 2020.\n\nZimbabwe is filled with amazing\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Ethiopia",
+        "indices": [
+          32,
+          41
+        ]
+      },
+      {
+        "text": "Zimbabwe",
+        "indices": [
+          46,
+          55
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Zoe_Flood",
+        "name": "Zo\u00eb Flood",
+        "id": 221278192,
+        "id_str": "221278192",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1108378565886779393,
+    "id_str": "1108378565886779393",
+    "name": "Canaan Chikasvika",
+    "screen_name": "CChikasvika",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 15,
+    "friends_count": 86,
+    "listed_count": 0,
+    "created_at": "Wed Mar 20 14:43:37 +0000 2019",
+    "favourites_count": 995,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 551,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": true,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Jan 22 01:45:58 +0000 2020",
+    "id": 1219798327903961089,
+    "id_str": "1219798327903961089",
+    "text": "Nice to see both #Ethiopia and #Zimbabwe on this list of best travel destinations for 2020.\n\nZimbabwe is filled wit\u2026 https://t.co/pLlHTJm1L7",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Ethiopia",
+          "indices": [
+            17,
+            26
+          ]
+        },
+        {
+          "text": "Zimbabwe",
+          "indices": [
+            31,
+            40
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/pLlHTJm1L7",
+          "expanded_url": "https://twitter.com/i/web/status/1219798327903961089",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 221278192,
+      "id_str": "221278192",
+      "name": "Zo\u00eb Flood",
+      "screen_name": "Zoe_Flood",
+      "location": "East Africa | London",
+      "description": "Journalist and filmmaker. Most recently directed \u2018Gamblers Like Me\u2019 for #BBCAfricaEye: https://t.co/bvwBqFGUBq.",
+      "url": "https://t.co/3bTW2I0cs8",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/3bTW2I0cs8",
+              "expanded_url": "http://www.zoeflood.com",
+              "display_url": "zoeflood.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/bvwBqFGUBq",
+              "expanded_url": "http://youtu.be/JXgLwphEDM0",
+              "display_url": "youtu.be/JXgLwphEDM0",
+              "indices": [
+                87,
+                110
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 8045,
+      "friends_count": 4956,
+      "listed_count": 305,
+      "created_at": "Tue Nov 30 06:30:39 +0000 2010",
+      "favourites_count": 14065,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 12558,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/988915926421602304/xaEO8nH7_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/988915926421602304/xaEO8nH7_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/221278192/1576431842",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 29,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 14,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}
+{
+  "created_at": "Wed Jan 22 06:52:22 +0000 2020",
+  "id": 1219875436542464000,
+  "id_str": "1219875436542464000",
+  "text": "RT @Zoe_Flood: Nice to see both #Ethiopia and #Zimbabwe on this list of best travel destinations for 2020.\n\nZimbabwe is filled with amazing\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Ethiopia",
+        "indices": [
+          32,
+          41
+        ]
+      },
+      {
+        "text": "Zimbabwe",
+        "indices": [
+          46,
+          55
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Zoe_Flood",
+        "name": "Zo\u00eb Flood",
+        "id": 221278192,
+        "id_str": "221278192",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 84778698,
+    "id_str": "84778698",
+    "name": "Abebe Birhanu",
+    "screen_name": "abirhanu",
+    "location": "Finote Selam-- Addis Abeba",
+    "description": "Mobile Network Engineer by Profession & #photographer by hobby.\n\n#Travel, #music.\n\n(Re)tweets are often about |#Ethiopia| & |#InterMilan|",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 6923,
+    "friends_count": 837,
+    "listed_count": 24,
+    "created_at": "Sat Oct 24 05:58:29 +0000 2009",
+    "favourites_count": 25150,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 13107,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1092359721594556416/SwDSXeMG_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1092359721594556416/SwDSXeMG_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Jan 22 01:45:58 +0000 2020",
+    "id": 1219798327903961089,
+    "id_str": "1219798327903961089",
+    "text": "Nice to see both #Ethiopia and #Zimbabwe on this list of best travel destinations for 2020.\n\nZimbabwe is filled wit\u2026 https://t.co/pLlHTJm1L7",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Ethiopia",
+          "indices": [
+            17,
+            26
+          ]
+        },
+        {
+          "text": "Zimbabwe",
+          "indices": [
+            31,
+            40
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/pLlHTJm1L7",
+          "expanded_url": "https://twitter.com/i/web/status/1219798327903961089",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 221278192,
+      "id_str": "221278192",
+      "name": "Zo\u00eb Flood",
+      "screen_name": "Zoe_Flood",
+      "location": "East Africa | London",
+      "description": "Journalist and filmmaker. Most recently directed \u2018Gamblers Like Me\u2019 for #BBCAfricaEye: https://t.co/bvwBqFGUBq.",
+      "url": "https://t.co/3bTW2I0cs8",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/3bTW2I0cs8",
+              "expanded_url": "http://www.zoeflood.com",
+              "display_url": "zoeflood.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/bvwBqFGUBq",
+              "expanded_url": "http://youtu.be/JXgLwphEDM0",
+              "display_url": "youtu.be/JXgLwphEDM0",
+              "indices": [
+                87,
+                110
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 8045,
+      "friends_count": 4956,
+      "listed_count": 305,
+      "created_at": "Tue Nov 30 06:30:39 +0000 2010",
+      "favourites_count": 14065,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 12558,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/988915926421602304/xaEO8nH7_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/988915926421602304/xaEO8nH7_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/221278192/1576431842",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 29,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 14,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}
+{
+  "created_at": "Wed Jan 22 06:13:18 +0000 2020",
+  "id": 1219865604628406272,
+  "id_str": "1219865604628406272",
+  "text": "RT @Zoe_Flood: Nice to see both #Ethiopia and #Zimbabwe on this list of best travel destinations for 2020.\n\nZimbabwe is filled with amazing\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Ethiopia",
+        "indices": [
+          32,
+          41
+        ]
+      },
+      {
+        "text": "Zimbabwe",
+        "indices": [
+          46,
+          55
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Zoe_Flood",
+        "name": "Zo\u00eb Flood",
+        "id": 221278192,
+        "id_str": "221278192",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 16995023,
+    "id_str": "16995023",
+    "name": "Eric M. Mazango \ud83c\uddff\ud83c\uddfc\ud83c\uddea\ud83c\uddf9",
+    "screen_name": "ericmazango",
+    "location": "Ethiopia",
+    "description": "Communication Specialist | Telecom, Media, & Technology | UN Migration & Free mvt | Sustainable Development |  tweets are not advice",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 645,
+    "friends_count": 1562,
+    "listed_count": 10,
+    "created_at": "Mon Oct 27 08:13:42 +0000 2008",
+    "favourites_count": 6334,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1572,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/990654052475326470/PY8Wno5C_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/990654052475326470/PY8Wno5C_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/16995023/1527507631",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Jan 22 01:45:58 +0000 2020",
+    "id": 1219798327903961089,
+    "id_str": "1219798327903961089",
+    "text": "Nice to see both #Ethiopia and #Zimbabwe on this list of best travel destinations for 2020.\n\nZimbabwe is filled wit\u2026 https://t.co/pLlHTJm1L7",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Ethiopia",
+          "indices": [
+            17,
+            26
+          ]
+        },
+        {
+          "text": "Zimbabwe",
+          "indices": [
+            31,
+            40
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/pLlHTJm1L7",
+          "expanded_url": "https://twitter.com/i/web/status/1219798327903961089",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 221278192,
+      "id_str": "221278192",
+      "name": "Zo\u00eb Flood",
+      "screen_name": "Zoe_Flood",
+      "location": "East Africa | London",
+      "description": "Journalist and filmmaker. Most recently directed \u2018Gamblers Like Me\u2019 for #BBCAfricaEye: https://t.co/bvwBqFGUBq.",
+      "url": "https://t.co/3bTW2I0cs8",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/3bTW2I0cs8",
+              "expanded_url": "http://www.zoeflood.com",
+              "display_url": "zoeflood.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/bvwBqFGUBq",
+              "expanded_url": "http://youtu.be/JXgLwphEDM0",
+              "display_url": "youtu.be/JXgLwphEDM0",
+              "indices": [
+                87,
+                110
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 8045,
+      "friends_count": 4956,
+      "listed_count": 305,
+      "created_at": "Tue Nov 30 06:30:39 +0000 2010",
+      "favourites_count": 14065,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 12558,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/988915926421602304/xaEO8nH7_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/988915926421602304/xaEO8nH7_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/221278192/1576431842",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 29,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 14,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}
+{
+  "created_at": "Wed Jan 22 06:09:37 +0000 2020",
+  "id": 1219864678039531520,
+  "id_str": "1219864678039531520",
+  "text": "RT @Zoe_Flood: Nice to see both #Ethiopia and #Zimbabwe on this list of best travel destinations for 2020.\n\nZimbabwe is filled with amazing\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Ethiopia",
+        "indices": [
+          32,
+          41
+        ]
+      },
+      {
+        "text": "Zimbabwe",
+        "indices": [
+          46,
+          55
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Zoe_Flood",
+        "name": "Zo\u00eb Flood",
+        "id": 221278192,
+        "id_str": "221278192",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 769164582,
+    "id_str": "769164582",
+    "name": "Mr \u2022|\u2022 Lewis",
+    "screen_name": "lewisince88",
+    "location": "Dubai, United Arab Emirates",
+    "description": "\ud83d\udcdf   You know how aggravating it is to argue with a M***Fckr that has  no taste?",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1570,
+    "friends_count": 969,
+    "listed_count": 99,
+    "created_at": "Mon Aug 20 09:12:31 +0000 2012",
+    "favourites_count": 38748,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 137507,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1217542413369139200/Fl8XpTpZ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1217542413369139200/Fl8XpTpZ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/769164582/1579557104",
+    "profile_link_color": "981CEB",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Jan 22 01:45:58 +0000 2020",
+    "id": 1219798327903961089,
+    "id_str": "1219798327903961089",
+    "text": "Nice to see both #Ethiopia and #Zimbabwe on this list of best travel destinations for 2020.\n\nZimbabwe is filled wit\u2026 https://t.co/pLlHTJm1L7",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Ethiopia",
+          "indices": [
+            17,
+            26
+          ]
+        },
+        {
+          "text": "Zimbabwe",
+          "indices": [
+            31,
+            40
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/pLlHTJm1L7",
+          "expanded_url": "https://twitter.com/i/web/status/1219798327903961089",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 221278192,
+      "id_str": "221278192",
+      "name": "Zo\u00eb Flood",
+      "screen_name": "Zoe_Flood",
+      "location": "East Africa | London",
+      "description": "Journalist and filmmaker. Most recently directed \u2018Gamblers Like Me\u2019 for #BBCAfricaEye: https://t.co/bvwBqFGUBq.",
+      "url": "https://t.co/3bTW2I0cs8",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/3bTW2I0cs8",
+              "expanded_url": "http://www.zoeflood.com",
+              "display_url": "zoeflood.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/bvwBqFGUBq",
+              "expanded_url": "http://youtu.be/JXgLwphEDM0",
+              "display_url": "youtu.be/JXgLwphEDM0",
+              "indices": [
+                87,
+                110
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 8045,
+      "friends_count": 4956,
+      "listed_count": 305,
+      "created_at": "Tue Nov 30 06:30:39 +0000 2010",
+      "favourites_count": 14065,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 12558,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/988915926421602304/xaEO8nH7_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/988915926421602304/xaEO8nH7_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/221278192/1576431842",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 29,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 14,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}
+{
+  "created_at": "Wed Jan 22 06:09:06 +0000 2020",
+  "id": 1219864546212401152,
+  "id_str": "1219864546212401152",
+  "text": "RT @Zoe_Flood: Nice to see both #Ethiopia and #Zimbabwe on this list of best travel destinations for 2020.\n\nZimbabwe is filled with amazing\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Ethiopia",
+        "indices": [
+          32,
+          41
+        ]
+      },
+      {
+        "text": "Zimbabwe",
+        "indices": [
+          46,
+          55
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Zoe_Flood",
+        "name": "Zo\u00eb Flood",
+        "id": 221278192,
+        "id_str": "221278192",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1105003848,
+    "id_str": "1105003848",
+    "name": "Fine ghel",
+    "screen_name": "Tinaky1",
+    "location": "Namibia",
+    "description": "Wanderlust || Solo Traveller || Documentary Photographer.",
+    "url": "https://t.co/KuK6uabS6p",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/KuK6uabS6p",
+            "expanded_url": "https://chasingadventuress.tumblr.com/",
+            "display_url": "chasingadventuress.tumblr.com",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1130,
+    "friends_count": 652,
+    "listed_count": 29,
+    "created_at": "Sun Jan 20 00:34:17 +0000 2013",
+    "favourites_count": 10264,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 67048,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "352726",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1217195557082533893/v7RlLTbt_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1217195557082533893/v7RlLTbt_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1105003848/1578071575",
+    "profile_link_color": "0A0204",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Jan 22 01:45:58 +0000 2020",
+    "id": 1219798327903961089,
+    "id_str": "1219798327903961089",
+    "text": "Nice to see both #Ethiopia and #Zimbabwe on this list of best travel destinations for 2020.\n\nZimbabwe is filled wit\u2026 https://t.co/pLlHTJm1L7",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Ethiopia",
+          "indices": [
+            17,
+            26
+          ]
+        },
+        {
+          "text": "Zimbabwe",
+          "indices": [
+            31,
+            40
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/pLlHTJm1L7",
+          "expanded_url": "https://twitter.com/i/web/status/1219798327903961089",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 221278192,
+      "id_str": "221278192",
+      "name": "Zo\u00eb Flood",
+      "screen_name": "Zoe_Flood",
+      "location": "East Africa | London",
+      "description": "Journalist and filmmaker. Most recently directed \u2018Gamblers Like Me\u2019 for #BBCAfricaEye: https://t.co/bvwBqFGUBq.",
+      "url": "https://t.co/3bTW2I0cs8",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/3bTW2I0cs8",
+              "expanded_url": "http://www.zoeflood.com",
+              "display_url": "zoeflood.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/bvwBqFGUBq",
+              "expanded_url": "http://youtu.be/JXgLwphEDM0",
+              "display_url": "youtu.be/JXgLwphEDM0",
+              "indices": [
+                87,
+                110
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 8045,
+      "friends_count": 4956,
+      "listed_count": 305,
+      "created_at": "Tue Nov 30 06:30:39 +0000 2010",
+      "favourites_count": 14065,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 12558,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/988915926421602304/xaEO8nH7_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/988915926421602304/xaEO8nH7_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/221278192/1576431842",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 29,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 14,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}
+{
+  "created_at": "Wed Jan 22 06:08:38 +0000 2020",
+  "id": 1219864429359259648,
+  "id_str": "1219864429359259648",
+  "text": "RT @Zoe_Flood: Nice to see both #Ethiopia and #Zimbabwe on this list of best travel destinations for 2020.\n\nZimbabwe is filled with amazing\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Ethiopia",
+        "indices": [
+          32,
+          41
+        ]
+      },
+      {
+        "text": "Zimbabwe",
+        "indices": [
+          46,
+          55
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Zoe_Flood",
+        "name": "Zo\u00eb Flood",
+        "id": 221278192,
+        "id_str": "221278192",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 47964081,
+    "id_str": "47964081",
+    "name": "harumutasa/aljazeera",
+    "screen_name": "harumutasa",
+    "location": "Zimbabwe",
+    "description": "Harugumi Rozabella Uhuru Mutasa, Journalist at Aljazeera Media Network,\nAll tweets are personal views not my employers' or associates.",
+    "url": "https://t.co/9e024HWw6N",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/9e024HWw6N",
+            "expanded_url": "http://www.facebook.com/HaruMutasaAljazeera/",
+            "display_url": "facebook.com/HaruMutasaAlja\u2026",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 83153,
+    "friends_count": 2976,
+    "listed_count": 550,
+    "created_at": "Wed Jun 17 13:45:23 +0000 2009",
+    "favourites_count": 5985,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 52826,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1213344365222993922/x3jJlPAb_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1213344365222993922/x3jJlPAb_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/47964081/1480121867",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Jan 22 01:45:58 +0000 2020",
+    "id": 1219798327903961089,
+    "id_str": "1219798327903961089",
+    "text": "Nice to see both #Ethiopia and #Zimbabwe on this list of best travel destinations for 2020.\n\nZimbabwe is filled wit\u2026 https://t.co/pLlHTJm1L7",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Ethiopia",
+          "indices": [
+            17,
+            26
+          ]
+        },
+        {
+          "text": "Zimbabwe",
+          "indices": [
+            31,
+            40
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/pLlHTJm1L7",
+          "expanded_url": "https://twitter.com/i/web/status/1219798327903961089",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 221278192,
+      "id_str": "221278192",
+      "name": "Zo\u00eb Flood",
+      "screen_name": "Zoe_Flood",
+      "location": "East Africa | London",
+      "description": "Journalist and filmmaker. Most recently directed \u2018Gamblers Like Me\u2019 for #BBCAfricaEye: https://t.co/bvwBqFGUBq.",
+      "url": "https://t.co/3bTW2I0cs8",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/3bTW2I0cs8",
+              "expanded_url": "http://www.zoeflood.com",
+              "display_url": "zoeflood.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/bvwBqFGUBq",
+              "expanded_url": "http://youtu.be/JXgLwphEDM0",
+              "display_url": "youtu.be/JXgLwphEDM0",
+              "indices": [
+                87,
+                110
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 8045,
+      "friends_count": 4956,
+      "listed_count": 305,
+      "created_at": "Tue Nov 30 06:30:39 +0000 2010",
+      "favourites_count": 14065,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 12558,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/988915926421602304/xaEO8nH7_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/988915926421602304/xaEO8nH7_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/221278192/1576431842",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 29,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 14,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}
+{
+  "created_at": "Wed Jan 22 06:07:32 +0000 2020",
+  "id": 1219864153898094594,
+  "id_str": "1219864153898094594",
+  "text": "RT @lonelyplanet: Zimbabwe's Gonarezhou National Park is the new hotspot for wildlife spotting - https://t.co/nHmdWx32zh https://t.co/NAlLA\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "lonelyplanet",
+        "name": "Lonely Planet",
+        "id": 15066760,
+        "id_str": "15066760",
+        "indices": [
+          3,
+          16
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/nHmdWx32zh",
+        "expanded_url": "https://lptravel.to/7FQOMe",
+        "display_url": "lptravel.to/7FQOMe",
+        "indices": [
+          97,
+          120
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1181564394309853186,
+    "id_str": "1181564394309853186",
+    "name": "Millah",
+    "screen_name": "millah_zw",
+    "location": "Luxembourg City and Harare",
+    "description": "#ATC #Pilot Love Nature Love Beautiful #Zim Cockpit & the Tower my second home...Spencer Dun brought me from a novel to the real world #inspiration #ZimExpat",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 45,
+    "friends_count": 111,
+    "listed_count": 0,
+    "created_at": "Tue Oct 08 13:38:21 +0000 2019",
+    "favourites_count": 1193,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 549,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1181569537667407873/E26qOCu8_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1181569537667407873/E26qOCu8_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1181564394309853186/1570651482",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Sep 11 14:02:44 +0000 2019",
+    "id": 1171786155362312192,
+    "id_str": "1171786155362312192",
+    "text": "Zimbabwe's Gonarezhou National Park is the new hotspot for wildlife spotting - https://t.co/nHmdWx32zh https://t.co/NAlLA6AdDo",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/nHmdWx32zh",
+          "expanded_url": "https://lptravel.to/7FQOMe",
+          "display_url": "lptravel.to/7FQOMe",
+          "indices": [
+            79,
+            102
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1171786143534370818,
+          "id_str": "1171786143534370818",
+          "indices": [
+            103,
+            126
+          ],
+          "media_url": "http://pbs.twimg.com/media/EEMFSgYXUAIWiU2.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EEMFSgYXUAIWiU2.jpg",
+          "url": "https://t.co/NAlLA6AdDo",
+          "display_url": "pic.twitter.com/NAlLA6AdDo",
+          "expanded_url": "https://twitter.com/lonelyplanet/status/1171786155362312192/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 800,
+              "h": 482,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 800,
+              "h": 482,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 410,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1171786143534370818,
+          "id_str": "1171786143534370818",
+          "indices": [
+            103,
+            126
+          ],
+          "media_url": "http://pbs.twimg.com/media/EEMFSgYXUAIWiU2.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EEMFSgYXUAIWiU2.jpg",
+          "url": "https://t.co/NAlLA6AdDo",
+          "display_url": "pic.twitter.com/NAlLA6AdDo",
+          "expanded_url": "https://twitter.com/lonelyplanet/status/1171786155362312192/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 800,
+              "h": 482,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 800,
+              "h": 482,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 410,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1171786148714295301,
+          "id_str": "1171786148714295301",
+          "indices": [
+            103,
+            126
+          ],
+          "media_url": "http://pbs.twimg.com/media/EEMFSzrWsAU3uPW.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EEMFSzrWsAU3uPW.jpg",
+          "url": "https://t.co/NAlLA6AdDo",
+          "display_url": "pic.twitter.com/NAlLA6AdDo",
+          "expanded_url": "https://twitter.com/lonelyplanet/status/1171786155362312192/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 800,
+              "h": 533,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 800,
+              "h": 533,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1171786152489172992,
+          "id_str": "1171786152489172992",
+          "indices": [
+            103,
+            126
+          ],
+          "media_url": "http://pbs.twimg.com/media/EEMFTBvWwAAjKzB.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EEMFTBvWwAAjKzB.jpg",
+          "url": "https://t.co/NAlLA6AdDo",
+          "display_url": "pic.twitter.com/NAlLA6AdDo",
+          "expanded_url": "https://twitter.com/lonelyplanet/status/1171786155362312192/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 800,
+              "h": 284,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 800,
+              "h": 284,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 241,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.falcon.io\" rel=\"nofollow\">Falcon Social Media Management </a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 15066760,
+      "id_str": "15066760",
+      "name": "Lonely Planet",
+      "screen_name": "lonelyplanet",
+      "location": "Everywhere, all the time",
+      "description": "Your home for #travel | Tweeting + retweeting the best in travel: in-depth articles, inspiring photography, intrepid videos.",
+      "url": "https://t.co/srKyq4GDXf",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/srKyq4GDXf",
+              "expanded_url": "http://www.lonelyplanet.com",
+              "display_url": "lonelyplanet.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 6309253,
+      "friends_count": 663451,
+      "listed_count": 26792,
+      "created_at": "Mon Jun 09 22:53:07 +0000 2008",
+      "favourites_count": 29334,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 82953,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "3B94D9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/659349744532246528/oJDWTI75_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/659349744532246528/oJDWTI75_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/15066760/1543919998",
+      "profile_link_color": "3B94D9",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DFE7F2",
+      "profile_text_color": "11111A",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 34,
+    "favorite_count": 118,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 34,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}
+{
+  "created_at": "Wed Jan 22 05:26:30 +0000 2020",
+  "id": 1219853825328209921,
+  "id_str": "1219853825328209921",
+  "text": "RT @Zoe_Flood: Nice to see both #Ethiopia and #Zimbabwe on this list of best travel destinations for 2020.\n\nZimbabwe is filled with amazing\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Ethiopia",
+        "indices": [
+          32,
+          41
+        ]
+      },
+      {
+        "text": "Zimbabwe",
+        "indices": [
+          46,
+          55
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Zoe_Flood",
+        "name": "Zo\u00eb Flood",
+        "id": 221278192,
+        "id_str": "221278192",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 865935274882281472,
+    "id_str": "865935274882281472",
+    "name": "Saeed Ibrahim",
+    "screen_name": "Saeed_beeldeeq",
+    "location": "Baltimore",
+    "description": "Cyber security professional @nra member who enjoys his #2nd ammendment rights and proud to call #Somaliland my Fatherland and #Hargeisa (boqoljire) my hometown.",
+    "url": "https://t.co/hqoeQXwOle",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/hqoeQXwOle",
+            "expanded_url": "http://www.beeldeeqcorp.com",
+            "display_url": "beeldeeqcorp.com",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 3437,
+    "friends_count": 374,
+    "listed_count": 4,
+    "created_at": "Sat May 20 14:20:32 +0000 2017",
+    "favourites_count": 6623,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 5755,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1208645082158698496/4LH7ujIf_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1208645082158698496/4LH7ujIf_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/865935274882281472/1579416024",
+    "profile_link_color": "19CF86",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Jan 22 01:45:58 +0000 2020",
+    "id": 1219798327903961089,
+    "id_str": "1219798327903961089",
+    "text": "Nice to see both #Ethiopia and #Zimbabwe on this list of best travel destinations for 2020.\n\nZimbabwe is filled wit\u2026 https://t.co/pLlHTJm1L7",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Ethiopia",
+          "indices": [
+            17,
+            26
+          ]
+        },
+        {
+          "text": "Zimbabwe",
+          "indices": [
+            31,
+            40
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/pLlHTJm1L7",
+          "expanded_url": "https://twitter.com/i/web/status/1219798327903961089",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 221278192,
+      "id_str": "221278192",
+      "name": "Zo\u00eb Flood",
+      "screen_name": "Zoe_Flood",
+      "location": "East Africa | London",
+      "description": "Journalist and filmmaker. Most recently directed \u2018Gamblers Like Me\u2019 for #BBCAfricaEye: https://t.co/bvwBqFGUBq.",
+      "url": "https://t.co/3bTW2I0cs8",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/3bTW2I0cs8",
+              "expanded_url": "http://www.zoeflood.com",
+              "display_url": "zoeflood.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/bvwBqFGUBq",
+              "expanded_url": "http://youtu.be/JXgLwphEDM0",
+              "display_url": "youtu.be/JXgLwphEDM0",
+              "indices": [
+                87,
+                110
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 8045,
+      "friends_count": 4956,
+      "listed_count": 305,
+      "created_at": "Tue Nov 30 06:30:39 +0000 2010",
+      "favourites_count": 14065,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 12558,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/988915926421602304/xaEO8nH7_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/988915926421602304/xaEO8nH7_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/221278192/1576431842",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 29,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 14,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}
+{
+  "created_at": "Wed Jan 22 05:12:34 +0000 2020",
+  "id": 1219850317354950658,
+  "id_str": "1219850317354950658",
+  "text": "RT @Zoe_Flood: Nice to see both #Ethiopia and #Zimbabwe on this list of best travel destinations for 2020.\n\nZimbabwe is filled with amazing\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Ethiopia",
+        "indices": [
+          32,
+          41
+        ]
+      },
+      {
+        "text": "Zimbabwe",
+        "indices": [
+          46,
+          55
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Zoe_Flood",
+        "name": "Zo\u00eb Flood",
+        "id": 221278192,
+        "id_str": "221278192",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 710425811925471232,
+    "id_str": "710425811925471232",
+    "name": "Rashid Abdi",
+    "screen_name": "RAbdiCG",
+    "location": "Nairobi, Kenya",
+    "description": "Researcher, Analyst. Horn of Africa, Gulf. Mostly security, migration, stabilisation, political & geopolitical developments. @REFHorn",
+    "url": "https://t.co/U6RzH8xpvY",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/U6RzH8xpvY",
+            "expanded_url": "https://www.soas.ac.uk/ref-hornresearch/",
+            "display_url": "soas.ac.uk/ref-hornresear\u2026",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 23780,
+    "friends_count": 2802,
+    "listed_count": 139,
+    "created_at": "Thu Mar 17 11:21:27 +0000 2016",
+    "favourites_count": 23401,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 24434,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1182334139795755008/-hqSNgRW_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1182334139795755008/-hqSNgRW_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/710425811925471232/1577957000",
+    "profile_link_color": "ABB8C2",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Jan 22 01:45:58 +0000 2020",
+    "id": 1219798327903961089,
+    "id_str": "1219798327903961089",
+    "text": "Nice to see both #Ethiopia and #Zimbabwe on this list of best travel destinations for 2020.\n\nZimbabwe is filled wit\u2026 https://t.co/pLlHTJm1L7",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Ethiopia",
+          "indices": [
+            17,
+            26
+          ]
+        },
+        {
+          "text": "Zimbabwe",
+          "indices": [
+            31,
+            40
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/pLlHTJm1L7",
+          "expanded_url": "https://twitter.com/i/web/status/1219798327903961089",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 221278192,
+      "id_str": "221278192",
+      "name": "Zo\u00eb Flood",
+      "screen_name": "Zoe_Flood",
+      "location": "East Africa | London",
+      "description": "Journalist and filmmaker. Most recently directed \u2018Gamblers Like Me\u2019 for #BBCAfricaEye: https://t.co/bvwBqFGUBq.",
+      "url": "https://t.co/3bTW2I0cs8",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/3bTW2I0cs8",
+              "expanded_url": "http://www.zoeflood.com",
+              "display_url": "zoeflood.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/bvwBqFGUBq",
+              "expanded_url": "http://youtu.be/JXgLwphEDM0",
+              "display_url": "youtu.be/JXgLwphEDM0",
+              "indices": [
+                87,
+                110
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 8045,
+      "friends_count": 4956,
+      "listed_count": 305,
+      "created_at": "Tue Nov 30 06:30:39 +0000 2010",
+      "favourites_count": 14065,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 12558,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/988915926421602304/xaEO8nH7_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/988915926421602304/xaEO8nH7_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/221278192/1576431842",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 29,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 14,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}
+{
+  "created_at": "Wed Jan 22 05:11:58 +0000 2020",
+  "id": 1219850166519369728,
+  "id_str": "1219850166519369728",
+  "text": "RT @Zoe_Flood: Nice to see both #Ethiopia and #Zimbabwe on this list of best travel destinations for 2020.\n\nZimbabwe is filled with amazing\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Ethiopia",
+        "indices": [
+          32,
+          41
+        ]
+      },
+      {
+        "text": "Zimbabwe",
+        "indices": [
+          46,
+          55
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Zoe_Flood",
+        "name": "Zo\u00eb Flood",
+        "id": 221278192,
+        "id_str": "221278192",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 47071700,
+    "id_str": "47071700",
+    "name": "Robyn Lee Kriel",
+    "screen_name": "robynkriel1",
+    "location": "Atlanta, GA",
+    "description": "Freelance journalist in Addis Ababa. Formerly @CNN anchor/correspondent. Zimbo. Formerly @eNCA @KWTX @warstudies @TCU.",
+    "url": "https://t.co/l2uJ1AFPPK",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/l2uJ1AFPPK",
+            "expanded_url": "https://www.kcl.ac.uk/sspp/departments/warstudies/study/wsonline/award/index.aspx",
+            "display_url": "kcl.ac.uk/sspp/departmen\u2026",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 22044,
+    "friends_count": 6632,
+    "listed_count": 509,
+    "created_at": "Sun Jun 14 10:41:34 +0000 2009",
+    "favourites_count": 7969,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 21558,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1114172345822916608/weupuuFJ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1114172345822916608/weupuuFJ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/47071700/1511709040",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Jan 22 01:45:58 +0000 2020",
+    "id": 1219798327903961089,
+    "id_str": "1219798327903961089",
+    "text": "Nice to see both #Ethiopia and #Zimbabwe on this list of best travel destinations for 2020.\n\nZimbabwe is filled wit\u2026 https://t.co/pLlHTJm1L7",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Ethiopia",
+          "indices": [
+            17,
+            26
+          ]
+        },
+        {
+          "text": "Zimbabwe",
+          "indices": [
+            31,
+            40
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/pLlHTJm1L7",
+          "expanded_url": "https://twitter.com/i/web/status/1219798327903961089",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 221278192,
+      "id_str": "221278192",
+      "name": "Zo\u00eb Flood",
+      "screen_name": "Zoe_Flood",
+      "location": "East Africa | London",
+      "description": "Journalist and filmmaker. Most recently directed \u2018Gamblers Like Me\u2019 for #BBCAfricaEye: https://t.co/bvwBqFGUBq.",
+      "url": "https://t.co/3bTW2I0cs8",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/3bTW2I0cs8",
+              "expanded_url": "http://www.zoeflood.com",
+              "display_url": "zoeflood.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/bvwBqFGUBq",
+              "expanded_url": "http://youtu.be/JXgLwphEDM0",
+              "display_url": "youtu.be/JXgLwphEDM0",
+              "indices": [
+                87,
+                110
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 8045,
+      "friends_count": 4956,
+      "listed_count": 305,
+      "created_at": "Tue Nov 30 06:30:39 +0000 2010",
+      "favourites_count": 14065,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 12558,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/988915926421602304/xaEO8nH7_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/988915926421602304/xaEO8nH7_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/221278192/1576431842",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 29,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 14,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}
+{
+  "created_at": "Wed Jan 22 03:49:29 +0000 2020",
+  "id": 1219829410800467968,
+  "id_str": "1219829410800467968",
+  "text": "RT @PestoChampion: Loving the superb #wildlife in Zimbabwe!  \n.\nClick link watch video\n\u25b6 https://t.co/ig6BwX29q3\n\n.\n#travel https://t.co/3M\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "wildlife",
+        "indices": [
+          37,
+          46
+        ]
+      },
+      {
+        "text": "travel",
+        "indices": [
+          116,
+          123
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "PestoChampion",
+        "name": "Pesto Champion \u2b50",
+        "id": 3866705320,
+        "id_str": "3866705320",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/ig6BwX29q3",
+        "expanded_url": "https://twitter.com/PestoChampion/status/1059687562506321920",
+        "display_url": "twitter.com/PestoChampion/\u2026",
+        "indices": [
+          89,
+          112
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1724613062,
+    "id_str": "1724613062",
+    "name": "Jack Wright\ud83d\udc99 a grumpy fellow \ud83d\udc4d",
+    "screen_name": "machonejack",
+    "location": "louisville ky",
+    "description": "Aircraft Maintenance Controller, a Teamster, & US Navy Vet. Love Mustangs & garage time repairs/welding, basically an ole greasy jet mechanic missing the 80's.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 8049,
+    "friends_count": 8863,
+    "listed_count": 77,
+    "created_at": "Tue Sep 03 06:39:17 +0000 2013",
+    "favourites_count": 304528,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 203394,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/870867637923983360/2lnfDh6p_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/870867637923983360/2lnfDh6p_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1724613062/1461806460",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Tue Jan 21 16:57:14 +0000 2020",
+    "id": 1219665267812380672,
+    "id_str": "1219665267812380672",
+    "text": "Loving the superb #wildlife in Zimbabwe!  \n.\nClick link watch video\n\u25b6 https://t.co/ig6BwX29q3\n\n.\n#travel https://t.co/3MKTLMfh0x",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "wildlife",
+          "indices": [
+            18,
+            27
+          ]
+        },
+        {
+          "text": "travel",
+          "indices": [
+            97,
+            104
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/ig6BwX29q3",
+          "expanded_url": "https://twitter.com/PestoChampion/status/1059687562506321920",
+          "display_url": "twitter.com/PestoChampion/\u2026",
+          "indices": [
+            70,
+            93
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1219665263869747201,
+          "id_str": "1219665263869747201",
+          "indices": [
+            105,
+            128
+          ],
+          "media_url": "http://pbs.twimg.com/media/EO0fGG3W4AEXitE.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EO0fGG3W4AEXitE.jpg",
+          "url": "https://t.co/3MKTLMfh0x",
+          "display_url": "pic.twitter.com/3MKTLMfh0x",
+          "expanded_url": "https://twitter.com/PestoChampion/status/1219665267812380672/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1219665263869747201,
+          "id_str": "1219665263869747201",
+          "indices": [
+            105,
+            128
+          ],
+          "media_url": "http://pbs.twimg.com/media/EO0fGG3W4AEXitE.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EO0fGG3W4AEXitE.jpg",
+          "url": "https://t.co/3MKTLMfh0x",
+          "display_url": "pic.twitter.com/3MKTLMfh0x",
+          "expanded_url": "https://twitter.com/PestoChampion/status/1219665267812380672/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://www.socialjukebox.com\" rel=\"nofollow\">The Social Jukebox</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3866705320,
+      "id_str": "3866705320",
+      "name": "Pesto Champion \u2b50",
+      "screen_name": "PestoChampion",
+      "location": "London \u272f Worldwide",
+      "description": "\ud83c\udf43#PestoChampion #London\ud83e\udd42#ContentCreator #photos \u272f #videos \u272f #food \u272f #travel \u272f #technology \u272f #Instagram @PestoChampion \ud83d\udce7contact@pestochampion.com #Ad #AI",
+      "url": "https://t.co/KfE1EQesdh",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/KfE1EQesdh",
+              "expanded_url": "https://www.pestochampion.com",
+              "display_url": "pestochampion.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 32287,
+      "friends_count": 30231,
+      "listed_count": 394,
+      "created_at": "Mon Oct 05 01:09:54 +0000 2015",
+      "favourites_count": 10980,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 64902,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/833685392809480194/M-TELdLO_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/833685392809480194/M-TELdLO_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3866705320/1444027675",
+      "profile_link_color": "4A913C",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1059687562506321920,
+    "quoted_status_id_str": "1059687562506321920",
+    "quoted_status": {
+      "created_at": "Tue Nov 06 06:02:57 +0000 2018",
+      "id": 1059687562506321920,
+      "id_str": "1059687562506321920",
+      "text": "The superb #wildlife of #Zimbabwe \ud83d\ude0d #WTMLDN @WTM_London \n.\n\ud83c\udfa5 by #TravelBlogger #FoodBlogger #PestoChampion for\u2026 https://t.co/rV84hWzoX7",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "wildlife",
+            "indices": [
+              11,
+              20
+            ]
+          },
+          {
+            "text": "Zimbabwe",
+            "indices": [
+              24,
+              33
+            ]
+          },
+          {
+            "text": "WTMLDN",
+            "indices": [
+              36,
+              43
+            ]
+          },
+          {
+            "text": "TravelBlogger",
+            "indices": [
+              64,
+              78
+            ]
+          },
+          {
+            "text": "FoodBlogger",
+            "indices": [
+              79,
+              91
+            ]
+          },
+          {
+            "text": "PestoChampion",
+            "indices": [
+              92,
+              106
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "WTM_London",
+            "name": "WTM London",
+            "id": 45550705,
+            "id_str": "45550705",
+            "indices": [
+              44,
+              55
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/rV84hWzoX7",
+            "expanded_url": "https://twitter.com/i/web/status/1059687562506321920",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              112,
+              135
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3866705320,
+        "id_str": "3866705320",
+        "name": "Pesto Champion \u2b50",
+        "screen_name": "PestoChampion",
+        "location": "London \u272f Worldwide",
+        "description": "\ud83c\udf43#PestoChampion #London\ud83e\udd42#ContentCreator #photos \u272f #videos \u272f #food \u272f #travel \u272f #technology \u272f #Instagram @PestoChampion \ud83d\udce7contact@pestochampion.com #Ad #AI",
+        "url": "https://t.co/KfE1EQesdh",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/KfE1EQesdh",
+                "expanded_url": "https://www.pestochampion.com",
+                "display_url": "pestochampion.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 32287,
+        "friends_count": 30231,
+        "listed_count": 394,
+        "created_at": "Mon Oct 05 01:09:54 +0000 2015",
+        "favourites_count": 10980,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 64902,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/833685392809480194/M-TELdLO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/833685392809480194/M-TELdLO_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3866705320/1444027675",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 47,
+      "favorite_count": 31,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 3,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1059687562506321920,
+  "quoted_status_id_str": "1059687562506321920",
+  "retweet_count": 3,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}
+{
+  "created_at": "Wed Jan 22 02:26:43 +0000 2020",
+  "id": 1219808581517627392,
+  "id_str": "1219808581517627392",
+  "text": "RT @Zoe_Flood: Nice to see both #Ethiopia and #Zimbabwe on this list of best travel destinations for 2020.\n\nZimbabwe is filled with amazing\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Ethiopia",
+        "indices": [
+          32,
+          41
+        ]
+      },
+      {
+        "text": "Zimbabwe",
+        "indices": [
+          46,
+          55
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Zoe_Flood",
+        "name": "Zo\u00eb Flood",
+        "id": 221278192,
+        "id_str": "221278192",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 497125862,
+    "id_str": "497125862",
+    "name": "Jeffrey Paller",
+    "screen_name": "JWPaller",
+    "location": "San Francisco, CA",
+    "description": "Assistant Professor of Politics at USF. Africa, cities, slums, and democracy: https://t.co/IqSkYhOgt2",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "url": "https://t.co/IqSkYhOgt2",
+            "expanded_url": "https://www.cambridge.org/core/books/democracy-in-ghana/20E72D3CCE54A8636AC900430C9F2C47",
+            "display_url": "cambridge.org/core/books/dem\u2026",
+            "indices": [
+              78,
+              101
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 2749,
+    "friends_count": 1090,
+    "listed_count": 157,
+    "created_at": "Sun Feb 19 17:05:37 +0000 2012",
+    "favourites_count": 639,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 36389,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1838767605/Jeff_profile_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1838767605/Jeff_profile_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/497125862/1353669043",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Jan 22 01:45:58 +0000 2020",
+    "id": 1219798327903961089,
+    "id_str": "1219798327903961089",
+    "text": "Nice to see both #Ethiopia and #Zimbabwe on this list of best travel destinations for 2020.\n\nZimbabwe is filled wit\u2026 https://t.co/pLlHTJm1L7",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Ethiopia",
+          "indices": [
+            17,
+            26
+          ]
+        },
+        {
+          "text": "Zimbabwe",
+          "indices": [
+            31,
+            40
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/pLlHTJm1L7",
+          "expanded_url": "https://twitter.com/i/web/status/1219798327903961089",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 221278192,
+      "id_str": "221278192",
+      "name": "Zo\u00eb Flood",
+      "screen_name": "Zoe_Flood",
+      "location": "East Africa | London",
+      "description": "Journalist and filmmaker. Most recently directed \u2018Gamblers Like Me\u2019 for #BBCAfricaEye: https://t.co/bvwBqFGUBq.",
+      "url": "https://t.co/3bTW2I0cs8",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/3bTW2I0cs8",
+              "expanded_url": "http://www.zoeflood.com",
+              "display_url": "zoeflood.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/bvwBqFGUBq",
+              "expanded_url": "http://youtu.be/JXgLwphEDM0",
+              "display_url": "youtu.be/JXgLwphEDM0",
+              "indices": [
+                87,
+                110
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 8045,
+      "friends_count": 4956,
+      "listed_count": 305,
+      "created_at": "Tue Nov 30 06:30:39 +0000 2010",
+      "favourites_count": 14065,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 12558,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/988915926421602304/xaEO8nH7_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/988915926421602304/xaEO8nH7_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/221278192/1576431842",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 29,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 14,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}
+{
+  "created_at": "Wed Jan 22 01:50:22 +0000 2020",
+  "id": 1219799433262649345,
+  "id_str": "1219799433262649345",
+  "text": "RT @Zoe_Flood: Nice to see both #Ethiopia and #Zimbabwe on this list of best travel destinations for 2020.\n\nZimbabwe is filled with amazing\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Ethiopia",
+        "indices": [
+          32,
+          41
+        ]
+      },
+      {
+        "text": "Zimbabwe",
+        "indices": [
+          46,
+          55
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Zoe_Flood",
+        "name": "Zo\u00eb Flood",
+        "id": 221278192,
+        "id_str": "221278192",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 72912311,
+    "id_str": "72912311",
+    "name": "Wadzanai Mhute",
+    "screen_name": "Wadza_M",
+    "location": "New York",
+    "description": "Reader - Writer - Love God - Community @nytimes - \u2764\ufe0fZimbabwe",
+    "url": "https://t.co/cxa4WGkpJB",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/cxa4WGkpJB",
+            "expanded_url": "http://www.wadzanaimhute.com/",
+            "display_url": "wadzanaimhute.com",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1494,
+    "friends_count": 1051,
+    "listed_count": 82,
+    "created_at": "Wed Sep 09 18:11:21 +0000 2009",
+    "favourites_count": 2555,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 14991,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "B2DFDA",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/933055254739988481/IkLD8TGe_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/933055254739988481/IkLD8TGe_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/72912311/1399257250",
+    "profile_link_color": "1212FF",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "FF3F05",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Jan 22 01:45:58 +0000 2020",
+    "id": 1219798327903961089,
+    "id_str": "1219798327903961089",
+    "text": "Nice to see both #Ethiopia and #Zimbabwe on this list of best travel destinations for 2020.\n\nZimbabwe is filled wit\u2026 https://t.co/pLlHTJm1L7",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Ethiopia",
+          "indices": [
+            17,
+            26
+          ]
+        },
+        {
+          "text": "Zimbabwe",
+          "indices": [
+            31,
+            40
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/pLlHTJm1L7",
+          "expanded_url": "https://twitter.com/i/web/status/1219798327903961089",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 221278192,
+      "id_str": "221278192",
+      "name": "Zo\u00eb Flood",
+      "screen_name": "Zoe_Flood",
+      "location": "East Africa | London",
+      "description": "Journalist and filmmaker. Most recently directed \u2018Gamblers Like Me\u2019 for #BBCAfricaEye: https://t.co/bvwBqFGUBq.",
+      "url": "https://t.co/3bTW2I0cs8",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/3bTW2I0cs8",
+              "expanded_url": "http://www.zoeflood.com",
+              "display_url": "zoeflood.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/bvwBqFGUBq",
+              "expanded_url": "http://youtu.be/JXgLwphEDM0",
+              "display_url": "youtu.be/JXgLwphEDM0",
+              "indices": [
+                87,
+                110
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 8045,
+      "friends_count": 4956,
+      "listed_count": 305,
+      "created_at": "Tue Nov 30 06:30:39 +0000 2010",
+      "favourites_count": 14065,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 12558,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/988915926421602304/xaEO8nH7_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/988915926421602304/xaEO8nH7_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/221278192/1576431842",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 29,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 14,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}
+{
+  "created_at": "Wed Jan 22 01:45:58 +0000 2020",
+  "id": 1219798327903961089,
+  "id_str": "1219798327903961089",
+  "text": "Nice to see both #Ethiopia and #Zimbabwe on this list of best travel destinations for 2020.\n\nZimbabwe is filled wit\u2026 https://t.co/pLlHTJm1L7",
+  "truncated": true,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Ethiopia",
+        "indices": [
+          17,
+          26
+        ]
+      },
+      {
+        "text": "Zimbabwe",
+        "indices": [
+          31,
+          40
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/pLlHTJm1L7",
+        "expanded_url": "https://twitter.com/i/web/status/1219798327903961089",
+        "display_url": "twitter.com/i/web/status/1\u2026",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 221278192,
+    "id_str": "221278192",
+    "name": "Zo\u00eb Flood",
+    "screen_name": "Zoe_Flood",
+    "location": "East Africa | London",
+    "description": "Journalist and filmmaker. Most recently directed \u2018Gamblers Like Me\u2019 for #BBCAfricaEye: https://t.co/bvwBqFGUBq.",
+    "url": "https://t.co/3bTW2I0cs8",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/3bTW2I0cs8",
+            "expanded_url": "http://www.zoeflood.com",
+            "display_url": "zoeflood.com",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "https://t.co/bvwBqFGUBq",
+            "expanded_url": "http://youtu.be/JXgLwphEDM0",
+            "display_url": "youtu.be/JXgLwphEDM0",
+            "indices": [
+              87,
+              110
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 8045,
+    "friends_count": 4956,
+    "listed_count": 305,
+    "created_at": "Tue Nov 30 06:30:39 +0000 2010",
+    "favourites_count": 14065,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 12558,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/988915926421602304/xaEO8nH7_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/988915926421602304/xaEO8nH7_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/221278192/1576431842",
+    "profile_link_color": "ABB8C2",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 14,
+  "favorite_count": 29,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}
